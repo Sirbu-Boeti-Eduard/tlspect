@@ -13,7 +13,7 @@ It is deliberately small, uses only the Go standard library, and makes outbound 
 - Whether the TLS handshake included at least one additional certificate after the leaf certificate.
 - A transparent 0-100 scoring rubric and an ordered list of fixes.
 
-The terminal report does not use emoji. Status markers are ANSI-coloured `[x]`, `[!]`, and `[ ]`; pass `--no-color` for entirely plain ASCII output.
+Status markers are ANSI-coloured `[x]`, `[!]`, and `[ ]`; pass `--no-color` for entirely plain ASCII output.
 
 ## Run
 
